@@ -1,12 +1,12 @@
 [
   {
     "key": "username",
-    "value": "//*[@id=\"login-email-label\"]",
+    "value": "//input[@name='username']",
     "type": "xpath"
   },
   {
     "key": "password",
-    "value": "//*[@id=\"login-password-input\"]",
+    "value": "//input[@name='password']",
     "type": "xpath"
   },
   {
