@@ -24,8 +24,10 @@ tags:Some Tests
 tags:Testinium Demo
 * "2" sn bekle
 * "https://testinium.io/" go to url
+* Click to element "username"
 * "username" li elemente "qa@testinium.io" degerini yaz
 * "2" sn bekle
+* Click to element "password"
 * "password" li elemente "Q6XpZ?6GsMbA" degerini yaz
 * "2" sn bekle
 * Click to element "loginbutton"
