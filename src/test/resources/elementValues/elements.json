@@ -1,0 +1,37 @@
+[
+  {
+    "key": "username",
+    "value": "#login-email-input",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value": "#login-password-input",
+    "type": "id"
+  },
+  {
+    "key": "loginbutton",
+    "value": "#login-submit-button",
+    "type": "id"
+  },
+  {
+    "key": "scenariosTab",
+    "value": "#nav-link-1",
+    "type": "id"
+  },
+  {
+    "key": "projectTab",
+    "value": "#nav-link-0",
+    "type": "id"
+  },
+  {
+    "key": "dashboardTab",
+    "value": "#nav-dashboard-link",
+    "type": "id"
+  },
+  {
+    "key": "wrongusername",
+    "value": "#login-email-inputtt",
+    "type": "id"
+  }
+]
