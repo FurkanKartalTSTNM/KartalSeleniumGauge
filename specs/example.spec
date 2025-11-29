@@ -9,16 +9,14 @@ tags:Go to Amazon
 * "2" sn bekle
 * "https://www.amazon.com.tr/" go to url
 
-## Some Tests
+## Fast Tests
 tags:Some Tests
 * "2" sn bekle
-* "https://www.amazon.com.tr/" go to url
-* "2" sn bekle
 * "https://testinium.io/" go to url
 * "2" sn bekle
-* "https://www.amazon.com.tr/" go to url
+* "username" li elemente "qa@testinium.io" degerini yaz
 * "2" sn bekle
-* "https://testinium.io/" go to url
+* "password" li elemente "Q6XpZ?6GsMbA" degerini yaz
 
 ## Testinium Demo
 tags:Testinium Demo
