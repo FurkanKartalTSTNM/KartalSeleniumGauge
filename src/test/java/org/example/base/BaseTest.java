@@ -95,7 +95,7 @@ public class BaseTest {
                 capabilities.setCapability(ChromeOptions.CAPABILITY, options);
                 capabilities.setCapability("key", System.getenv("key"));
                 browserName = System.getenv("browser");
-                driver = new RemoteWebDriver(new URL("http://hub-devcluster.testinium.io:4444/wd/hub"), capabilities);
+                driver = new RemoteWebDriver(new URL("http://host.docker.internal:4444/wd/hub"), capabilities);
                 actions = new Actions(driver);
                 driver.get("https://www.tatilbudur.com/");
 
